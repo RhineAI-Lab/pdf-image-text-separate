@@ -1,0 +1,5 @@
+Technical aspects of performing MRE include the use of an active pneumatic driver to generate mechanical waves, which are transmitted to the liver via a passive driver. The shear wave propagation is directly proportional to the level of stiffness, measured in kilopascals. Normal liver stiffness values are considered lower than 2.5 kPa. MRE can be performed on both 1.5 T and 3 T MRI machines, requiring specific hardware and software for accurate measurements. 
+
+In a prospective study, optimal agreement in measuring liver stiffness was demonstrated between 2D GRE and 2D SE-EPI MRE imaging sequences. MRE is highly accurate for detecting and staging liver fibrosis, with a high positive predictive value for ruling in moderate to significant fibrosis and a high negative predictive value for ruling out cirrhosis. 
+
+MRE has shown significant correlation with inflammation grade and fibrosis stage, making it a valuable tool in the assessment of chronic liver diseases. Future directions for MRE include the characterization of focal lesions and differentiating liver stiffness caused by fibrosis, edema, inflammation, and passive congestion.

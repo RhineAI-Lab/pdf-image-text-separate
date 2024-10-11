@@ -1,0 +1,1 @@
+Active pneumatic driver is used to generate mechanical waves for MRE. The passive pneumatic driver is positioned over the right lower chest wall to acquire hepatic tissue. Proper placement of the passive driver is crucial for accurate measurements. Post-processing of images is performed on a dedicated workstation to analyze the data collected during the MRE procedure.

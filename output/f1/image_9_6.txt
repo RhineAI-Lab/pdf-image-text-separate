@@ -1,0 +1,11 @@
+In the context of the image, the following relevant text can be extracted:
+
+1. "MRE is among the most accurate noninvasive methods for detecting and staging liver fibrosis."
+2. "The shear wave generated during the examination has a propagating velocity in the tissue which is directly proportional to the level of stiffness."
+3. "MRE can be performed both on 1.5 T or 3 T with a dedicated hardware to propagate mechanical waves."
+4. "Normal stiffness liver values are considered lower than 2.5 kPa."
+5. "MRE has shown in recent literature a high PPV for ruling in moderate-significant fibrosis and a high NPV for ruling out cirrhosis and staging fibrosis."
+6. "In a prospective study, Venkatesh et al. measured the accuracy of MRE in detecting and staging liver fibrosis in patients with chronic HBV."
+7. "MRE resulted significantly more accurate than serum fibrosis biomarkers for detecting fibrosis and cirrhosis."
+
+These sentences provide a concise overview of the significance and application of MRE in assessing liver conditions.

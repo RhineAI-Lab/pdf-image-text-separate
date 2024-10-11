@@ -1,0 +1,7 @@
+In recent years, Magnetic Resonance Imaging (MRI) has become the reference standard for noninvasive evaluation of diffuse liver diseases, providing high accuracy for diagnosis, staging, and follow-up. Among the innovative MRI applications, MR elastography (MRE) is particularly notable for its ability to identify fibrosis stages with high sensitivity and specificity. MRE measures liver stiffness, which is directly proportional to the level of fibrosis. 
+
+The shear wave generated during MRE examination propagates through liver tissue, allowing for quantitative assessment of liver stiffness in kilopascals (kPa). Normal liver stiffness values are considered lower than 2.5 kPa. MRE can be performed on both 1.5 T and 3 T MRI machines, requiring specific hardware and software for accurate measurements. 
+
+In clinical practice, MRE has shown excellent performance in detecting and staging liver fibrosis, with studies indicating high sensitivity and specificity for differentiating between various stages of fibrosis. Additionally, MRE has been evaluated for its ability to predict advanced fibrosis in conditions such as nonalcoholic fatty liver disease (NAFLD) and chronic hepatitis. 
+
+Overall, MRE represents a promising noninvasive alternative to liver biopsy, with ongoing research aimed at further validating its clinical applications and improving its diagnostic capabilities.
